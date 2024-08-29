@@ -1,4 +1,6 @@
-﻿# Що це?
+[![Install OWUkrainian](https://img.shields.io/endpoint?url=https%3A%2F%2Fouterwildsmods.com%2Fapi%2FDim0v.OWUkrainian%2Fbadge.json)](https://outerwildsmods.com/mods/owukrainian/)
+ 
+ # Що це?
 
 Мод, що додає українську локалізацію для Outer Wilds.
 
